@@ -1,6 +1,16 @@
-
-
 # ML Challenge 2025 - Smart Product Pricing Challenge
+
+## Team Name:
+**Neura-B Intellix** (where B stands for Bharat)
+
+## Platform Used:
+The challenge is hosted on **Unstop** (Virtually).
+
+## Timeline:
+- **11th Oct 2025 (Saturday)**: Day 01 – Challenge begins.
+- **12th Oct 2025 (Sunday)**: Day 02 – Progress, debugging, and testing.
+- **13th Oct 2025 (Monday)**: Day 03 – Final day for submissions.
+
 
 ## Problem Overview
 Your challenge is to develop a machine learning model to predict the optimal price of a product based on its details such as title, description, and image. The relationship between product attributes and pricing is complex, and your task is to build a model that analyzes these attributes and suggests an optimal price.
