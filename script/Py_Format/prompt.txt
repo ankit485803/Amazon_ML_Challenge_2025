@@ -1,0 +1,30 @@
+
+
+PROMPTS
+
+We want to do very fast these work only 4 hrs to submiited with higher accuracy
+
+step1: Data Load (both train.csv and test.csv) and Img data fetech from train.csv[image_link]
+we don't want that all these img dowload locally in my laptop and compute resources because our dirctly fetech Dell Laptop window 11 i5 with 4 CPU cores
+
+Is this the correct approach?
+
+step2: Preprocessing and Feature Engg for textual data i.e. catalog_content, etc
+and handling the other parameters
+
+step3: Model Selection
+use PyTorch and a transformer or higher-level neural network that predicts correctly and gives more accuracy
+ that extracts both text and image features to predict product prices with regression methods.
+
+step4: Train the models
+
+step5: Print the accuracy metric along with Symmetric Mean Absolute Percentage Error (SMAPE):
+
+step6: Lastly, Predication  steps and export in this format test_out.csv file which have only two columns: sample_id and price
+
+
+
+delete this modules after Amazon:  pip install torchvision,   pip install --upgrade 'optree>=0.13.0'
+pip install huggingface_hub[hf_xet]
+
+
